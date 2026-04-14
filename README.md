@@ -38,7 +38,3 @@ It enhances traditional DWECS by integrating **Q-learning** to dynamically balan
 
 ---
 
-## How to Run
-```bash
-pip install -r requirements.txt
-python src/main.py
