@@ -1,12 +1,12 @@
 # AI-DWECS: Lightweight Q-Learning Based Task Scheduler for Edge Computing
 
-## 🚀 Overview
+## Overview
 AI-DWECS is an intelligent task scheduling system designed for 5G Mobile Edge Computing (MEC).  
 It enhances traditional DWECS by integrating **Q-learning** to dynamically balance **task completion rate** and **energy efficiency**.
 
 ---
 
-## 🎯 Key Features
+## Key Features
 - Lightweight Q-learning model suitable for edge devices
 - Dynamic scheduling using EDF + cost-based optimization
 - Handles heterogeneous servers (different CPU & power)
@@ -14,7 +14,7 @@ It enhances traditional DWECS by integrating **Q-learning** to dynamically balan
 
 ---
 
-## 🧠 Methodology
+## Methodology
 - Tasks are scheduled using **EDF (Earliest Deadline First)**
 - Q-learning selects optimal weights for:
   - Time (deadline priority)
@@ -23,7 +23,7 @@ It enhances traditional DWECS by integrating **Q-learning** to dynamically balan
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 - Python
 - Reinforcement Learning (Q-Learning)
 - Edge Computing Simulation
@@ -31,14 +31,14 @@ It enhances traditional DWECS by integrating **Q-learning** to dynamically balan
 
 ---
 
-## 📊 Results
+## Results
 - Improved adaptability over static scheduling algorithms
 - Efficient performance in dynamic workloads
 - Suitable for real-time edge systems
 
 ---
 
-## ▶️ How to Run
+## How to Run
 ```bash
 pip install -r requirements.txt
 python src/main.py
