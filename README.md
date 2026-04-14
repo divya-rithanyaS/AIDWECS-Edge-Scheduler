@@ -37,4 +37,6 @@ It enhances traditional DWECS by integrating **Q-learning** to dynamically balan
 - Suitable for real-time edge systems
 
 ---
-
+## Project Documents
+- [Project Report](docs/AI-DWECS_Report.pdf)
+- [Presentation Slides](docs/AI-DWECS_Presentation.pptx)
